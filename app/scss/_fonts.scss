@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    //font-size: 99px;
+    @include adaptive-value("font-size", 99, 50);
+    //line-height: 118px;
+    @include adaptive-value("line-height", 118, 60);
+}
+
+h3 {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 67px;
+}
+
+h6 {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #776C82;
+}
+
+body {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-weight: 400;
+    line-height: 29.4px;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.logo {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 43px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}

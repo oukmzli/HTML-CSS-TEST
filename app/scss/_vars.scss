@@ -1,0 +1,91 @@
+%regular_bold {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 29px;
+}
+
+%nav {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14.4px;
+    line-height: 30px;
+    color: #FCFCFC;
+    letter-spacing: 2px;
+}
+
+%medium {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #FCFCFC;
+}
+
+%title_small {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 12.6px;
+    line-height: 26px;
+    letter-spacing: 6px;
+}
+
+%title_large {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 37px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+%text_small {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.2px;
+    line-height: 26px;
+    color: #FCFCFC;
+}
+
+%nav_footer {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12.6px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #FCFCFC;
+}
+
+%quote_small {
+    font-family: 'Noticia Text', serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 22.5px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #FCFCFC;
+}
+
+%button {
+    font-family: 'M PLUS 1p', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13.5px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FCFCFC;
+}
